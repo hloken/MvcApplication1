@@ -28,5 +28,10 @@ namespace MvcApplication1.Controllers
 
             return View();
         }
+
+        public ActionResult Customers()
+        {
+            return View();
+        }
     }
 }
